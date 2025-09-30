@@ -7,3 +7,4 @@ Collection of Python data analysis projects using Pandas, Numpy,  Matplotlib ,an
 - Insights:
   - Attrition rate: 47.7%
   - Overtime and early tenure are major attrition factors.
+FOLDER NAME - Project1-
