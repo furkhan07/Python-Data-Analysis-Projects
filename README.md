@@ -15,4 +15,12 @@ FOLDER NAME - Project2-Movies
 - Tools: Pandas, Numpy
 - Insights:
   - Most movies are produced after 2000.
-  - Action/Drama genres dominate.  
+  - Action/Drama genres dominate.
+ 
+FOLDER NAME - Project3-Titanic        
+3️⃣ Titanic Survival Analysis
+- Dataset: Titanic (Kaggle)
+- Tools: Pandas, Numpy, Matplotlib
+- Insights:
+  - Women and children had higher survival rates.
+  - 1st class passengers survived the most.
